@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 0: May 14 2018
-[comment]: <> ##### (delete me or comment me out)
+
 
 **Today's Progress**: Worked on anyisland creative website - was attempting to fix jekyll so that it saw custom css. was unsuccessful at this time.
 
@@ -12,13 +12,13 @@
 
 
 ### Day 1: May 15 2018
-[comment]: <> ##### (delete me or comment me out)
+
 
 **Today's Progress**: Worked and finished styling for anyisland creative website - fixed jekyll so that it saw custom css and added styling used in the past. Also worked on Directory website prototype.
 
 **Thoughts:** i used the Wayback machine to match previous stylings. Directory - trying to figure out how to associate a busessiness entry with a user.
 
-**Link to work:** [anyisland](http://www.anyisland.com)
+**Link to work:** [anyisland](http://www.anyisland.com) / [Directory App](https://anyisland-directory.herokuapp.com/)
 
 
   
