@@ -21,4 +21,12 @@
 **Link to work:** [anyisland](http://www.anyisland.com) / [Directory App](https://anyisland-directory.herokuapp.com/)
 
 
+  ### Day 1: May 15 2018
+
+
+**Today's Progress**: Worked on Directory website prototype trying to figure out how to set up devise/rails_admin/cancancan.
+
+**Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
+
+
   
