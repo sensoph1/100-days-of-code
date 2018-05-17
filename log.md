@@ -28,5 +28,13 @@
 
 **Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
 
+ ### Day 3: May 17 2018
 
+
+**Today's Progress**: continued Work on Directory website prototype trying to figure out how to set up devise/rails_admin/cancancan- successfully go that working. switched database from sqlite3 to mysql2 for use on heroku.
+
+**Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
+
+
+  
   
