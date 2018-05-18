@@ -35,6 +35,13 @@
 
 **Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
 
+### Day 4: May 18 2018
+
+
+**Today's Progress**: continued Work on Directory website prototype: fixed bug that didnt allow an entry to be saved. also added bootstrap controls to new version of the directory.
+
+**Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
+
 
   
   
