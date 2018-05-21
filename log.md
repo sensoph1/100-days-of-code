@@ -42,6 +42,12 @@
 
 **Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
 
+### Day 6: May 21 2018
+
+
+**Today's Progress**: continued Work on Directory website prototype: worked on the validation of phone numbers.
+
+**Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
 
   
   
