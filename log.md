@@ -49,5 +49,19 @@
 
 **Link to work:** [Directory App](https://anyisland-directory.herokuapp.com/)
 
+### Day 7: May 22 2018
+
+
+**Today's Progress**: worked on FCC weather App 
+
+**Link to work:** [Directory App](https://jsfiddle.net/sensoph/b63nvm6u/34/)
+
+### Day 8: May 23 2018
+
+
+**Today's Progress**: continued Work on Directory website prototype: worked on the validation of phone numbers.
+
+**Link to work:** [Directory App](https://jsfiddle.net/sensoph/b63nvm6u/65/)
+
   
   
