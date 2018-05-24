@@ -54,14 +54,21 @@
 
 **Today's Progress**: worked on FCC weather App 
 
-**Link to work:** [Directory App](https://jsfiddle.net/sensoph/b63nvm6u/34/)
+**Link to work:** [Weather App](https://jsfiddle.net/sensoph/b63nvm6u/34/)
 
 ### Day 8: May 23 2018
 
 
-**Today's Progress**: continued Work on Directory website prototype: worked on the validation of phone numbers.
+**Today's Progress**: continued Work on weather app. was not ever able to get hte C/F links to work
 
-**Link to work:** [Directory App](https://jsfiddle.net/sensoph/b63nvm6u/65/)
+**Link to work:** [Weather App](https://jsfiddle.net/sensoph/b63nvm6u/65/)
+
+  ### Day 8: May 23 2018
+
+
+**Today's Progress**: continued Work on weather app. was finally able to get hte C/F links to work. was unsuccessful with the icons based on descriptions...
+
+**Link to work:** [Weather App](https://jsfiddle.net/sensoph/b63nvm6u/79/)
 
   
   
